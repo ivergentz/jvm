@@ -9,7 +9,7 @@ body {
     margin: 0;
     padding: 0;
     overflow-y: hidden;
-    font-size: 117.5%;
+    font-size: 12px;
     font-family: 'Roboto', sans-serif;
     color: black;
     background: #fff;
